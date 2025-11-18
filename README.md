@@ -1,7 +1,7 @@
 # README
 ## Group 1 Team Members
-Chris Japit
-April Joy Vinculado 
+Chris Japit\n
+April Joy Vinculado\n 
 Group Member #3
 Group Member #4
 
