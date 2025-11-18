@@ -1,9 +1,9 @@
 # README
 ## Group 1 Team Members
-Chris Japit\n
-April Joy Vinculado\n 
-Group Member #3
-Group Member #4
+Chris Japit
+<br>April Joy Vinculado
+<br>Group Member #3
+<br>Group Member #4<br>
 
 ## Chosen Approach
 Figma Prototype (Approach #2)
