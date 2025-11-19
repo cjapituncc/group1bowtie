@@ -2,7 +2,7 @@
 ## Group 1 Team Members
 Chris Japit
 <br>April Joy Vinculado
-<br>Group Member #3
+<br>Baran
 <br>Group Member #4<br>
 
 ## Chosen Approach
